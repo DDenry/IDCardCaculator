@@ -1,0 +1,10 @@
+D:\Project\Code\IDCardCaculator\IDCardCaculator\bin\Debug\IDCardCaculator.exe.config
+D:\Project\Code\IDCardCaculator\IDCardCaculator\bin\Debug\IDCardCaculator.exe
+D:\Project\Code\IDCardCaculator\IDCardCaculator\bin\Debug\IDCardCaculator.pdb
+D:\Project\Code\IDCardCaculator\IDCardCaculator\obj\Debug\IDCardCaculator.csprojResolveAssemblyReference.cache
+D:\Project\Code\IDCardCaculator\IDCardCaculator\obj\Debug\IDCardCaculator.Form1.resources
+D:\Project\Code\IDCardCaculator\IDCardCaculator\obj\Debug\IDCardCaculator.Properties.Resources.resources
+D:\Project\Code\IDCardCaculator\IDCardCaculator\obj\Debug\IDCardCaculator.csproj.GenerateResource.Cache
+D:\Project\Code\IDCardCaculator\IDCardCaculator\obj\Debug\IDCardCaculator.csproj.CoreCompileInputs.cache
+D:\Project\Code\IDCardCaculator\IDCardCaculator\obj\Debug\IDCardCaculator.exe
+D:\Project\Code\IDCardCaculator\IDCardCaculator\obj\Debug\IDCardCaculator.pdb

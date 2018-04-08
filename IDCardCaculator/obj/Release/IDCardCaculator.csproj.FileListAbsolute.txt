@@ -1,0 +1,9 @@
+D:\Project\Code\IDCardCaculator\IDCardCaculator\bin\Release\IDCardCaculator.exe.config
+D:\Project\Code\IDCardCaculator\IDCardCaculator\bin\Release\IDCardCaculator.exe
+D:\Project\Code\IDCardCaculator\IDCardCaculator\bin\Release\IDCardCaculator.pdb
+D:\Project\Code\IDCardCaculator\IDCardCaculator\obj\Release\IDCardCaculator.Form1.resources
+D:\Project\Code\IDCardCaculator\IDCardCaculator\obj\Release\IDCardCaculator.Properties.Resources.resources
+D:\Project\Code\IDCardCaculator\IDCardCaculator\obj\Release\IDCardCaculator.csproj.GenerateResource.Cache
+D:\Project\Code\IDCardCaculator\IDCardCaculator\obj\Release\IDCardCaculator.csproj.CoreCompileInputs.cache
+D:\Project\Code\IDCardCaculator\IDCardCaculator\obj\Release\IDCardCaculator.exe
+D:\Project\Code\IDCardCaculator\IDCardCaculator\obj\Release\IDCardCaculator.pdb
